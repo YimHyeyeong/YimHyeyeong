@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Hyeyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YimHyeyeong)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YimHyeyeong/YimHyeyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
